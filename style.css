@@ -1,0 +1,23 @@
+body{
+
+    background-color: silver;
+    font-family: Arial, Verdana, sans-serif;
+}
+#ph{
+    width: 1250px;
+    height: 80px;
+    background-color: rgba(241, 237, 237, 0.904);
+    margin-top: 50px;
+    margin-left: 25px;   
+    line-height: 2.5em;
+    padding-left: 1em;
+}
+
+h1~p{
+    width: 1250px;
+    height: 40px;
+    margin-left: 25px;   
+    line-height: 2.5em;
+    padding-left: 1em;
+    color: white;
+}
